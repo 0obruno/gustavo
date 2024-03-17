@@ -1,0 +1,16 @@
+endereco             // texto endereco
+telefone             // texto
+salario              // real
+cpf                  // texto
+preco                // real
+temperatura          //real
+casado               //boleana
+nascimento           // data
+vacinado             // boleana
+preco_gasolina       //real
+litros_gasolina      //real
+preco_pao            // real
+total_compras        // real
+idade                //texto
+data_contrato        //data
+nivel_escolaridade   //texto
